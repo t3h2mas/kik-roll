@@ -1,13 +1,13 @@
 {
   "name": "kik-roll",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get a kik rick rolling w/ Node",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["rick roll"],
+  "author": "jtruant",
   "license": "WTFPL",
   "dependencies": {
     "open": "0.0.5"
